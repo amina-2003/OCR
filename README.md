@@ -1,4 +1,1 @@
 # OCR 
-hello
-kk
-kkm
